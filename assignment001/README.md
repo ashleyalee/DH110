@@ -7,4 +7,4 @@ Project Description
 
 https://www.footprintcalculator.org/
 
-![project screenshot](proj-screenshot.png)
+![project screenshot](../proj-screenshot.png)
