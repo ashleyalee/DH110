@@ -6,3 +6,5 @@
 Project Description
 
 https://www.footprintcalculator.org/
+
+![project screenshot](proj-screenshot)
