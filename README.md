@@ -1,6 +1,6 @@
 # DH110
 
-## Clean Air Project
+## Responsible Consumption and Production Project
 ### Ashley Lee, DH110
 
 Project Description
