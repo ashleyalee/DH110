@@ -5,6 +5,4 @@
 
 Project Description
 
-https://www.footprintcalculator.org/
-
-![project screenshot](../proj-screenshot.png)
+I would like to make a project that would allow users to learn about their ecological footprint and provide personalized ways they can reduce it.
