@@ -40,6 +40,7 @@ Each page/question on this website has a link 'Add Details to Improve Accuracy' 
 The page is aesthetic with the different illustrations on each page, however, it can feel busy since the illustrations change with your responses. This page is not very minimalistic since the images span the entire page and additional text (donate button) can distract the user from completing the questions. There are also animations on the page that distract the user.
 
 **9. Help Users Recognize, Diagnose and Recover from Errors**  
+Because this survey is very subjective and simple to follow, there is not much room for error. The only thing is that users are able to proceed to the next page without modifying their response for the previous/current page.
 
-
-
+**10. Help and Documentation**  
+Each question provides an explanation and context so users can know what they are specifically being asked. 
