@@ -47,7 +47,7 @@ Each question provides an explanation and context so users can know what they ar
 
 ### Website 2: [WWF Footprint Calculator](https://footprint.wwf.org.uk/#/)
 
-![ecological_footprint](ecological_footprint_web.png)
+![wwf_footprint](wwf_web.png)
 
 About: This website is also a footprint calculator. Users are asked questions from different categories to calculate their ecological footprint. A result is produced at the end with an explanation of their score. 
 
