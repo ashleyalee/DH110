@@ -1,6 +1,6 @@
 # DH110-22F
 
-## Clean Air Project
+## Reducing your Ecological Footprint
 ### Ashley Lee, DH110
 
 Project Description
