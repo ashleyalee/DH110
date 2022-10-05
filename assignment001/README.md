@@ -3,7 +3,9 @@
 ## Reducing your Ecological Footprint
 ### Ashley Lee, DH110
 
-Project Description
+For my project, I want to provide ways that people can calculcate and learn more about their ecological footprint and provide ways for them to improve their consumption, ultimately reducing their ecological footprint. I want to provide a way for users to be able to better understand what their footprint means so they can find that reducing their consumption does not need to be that difficult.
+
+### Website 1
 
 https://www.footprintcalculator.org/
 
