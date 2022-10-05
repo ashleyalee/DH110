@@ -28,7 +28,7 @@ Users are able to easily change their responses while remaining on the same ques
 The response options on the page are pretty standard and similar to how other typical tests function. The arrows on the page are also standard and noticeable that they are used to progress to the next page.
 
 **5. Error Prevention**  
-The website does not provide much space for error, however, it does allow you to proceed to the next page without changing your response to the previous page. Because of this, users may possibly skip questions if double clicking on the arrows too quickly.
+The website does not provide much space for error, however, it does allow you to proceed to the next page without changing your response to the previous page. Because of this, users may possibly skip questions if double clicking on the arrows too quickly. Instead, an error message could be provided if the user did not respond to anything before proceeding to the next page.
 
 **6. Recognition Rather than Recall**  
 The page provides users with conversions for measurements (ie. km to mi) so users do not have to convert it on their own. There are also images on each page that correspond to the questions so users can have a reference when answering them.
