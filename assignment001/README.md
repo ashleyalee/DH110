@@ -44,3 +44,33 @@ Because this survey is very subjective and simple to follow, there is not much r
 
 **10. Help and Documentation**  
 Each question provides an explanation and context so users can know what they are specifically being asked. 
+
+### Website 2: [Footprint Calculator by Global Footprint Network](footprintcalculator.org)
+
+![ecological_footprint](ecological_footprint_web.png)
+
+About: This website 
+
+Overall evaluation: I would rate this website to be a 
+
+#### Heuristic Evaluation
+
+**1. Visibility of System Status**  
+
+**2. Match Between Systems and the Real World**  
+
+**3. User Control and Freedom**  
+
+**4. Consistency and Standards**  
+
+**5. Error Prevention**  
+
+**6. Recognition Rather than Recall**  
+
+**7. Flexibility and Efficiency of Use**  
+
+**8. Aesthetic and Minimal Design**  
+
+**9. Help Users Recognize, Diagnose and Recover from Errors**  
+
+**10. Help and Documentation**  
