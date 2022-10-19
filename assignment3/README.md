@@ -40,38 +40,25 @@ During the session, I observed two activities:
 Please find the [Interview Script](https://docs.google.com/document/d/1cwa13f5nzwz6osnAuJ58rU0d12-mAQaSUci_OWD5ypg/edit?usp=sharing)
 
 ### Step 5: Conduct the Research
-* [Interview Recording]()
-* [Interview Transcript]()
+* [Interview Recording](https://drive.google.com/file/d/1qih-dwmNWEiU5OhsUU03D6yTP9D37dfb/view?usp=sharing)
+* [Interview Transcript](https://docs.google.com/document/d/12PmNjmXuXHT7JQcYAzLah5lTPLVAwFR4xe3GOq6K4Gk/edit?usp=sharing)
 
 ### Step 6: Documentation & Reflection
 
-## Participatory Research Materials
-
-**1. Contextual Inquiry Guide**
-
-Please find my **script** for this interview [here](https://docs.google.com/document/d/1deNEtd-r155F-ZNYfkmh4xWlLYpluqrDOF_TwX7BgQ8/edit), with an introduction, goals, and contextual questions.
-
-**2. User Data**
-
-Please find the **recording** of the interview [here](https://drive.google.com/file/d/1XywoY38WOYZZt3z06I9ryTEVZK_Zgyo9/view?usp=sharing).
-
-The **transcription** of the interview can be found [here](https://docs.google.com/document/d/1kqBzDjJ_XDwD77_coaovXrem6W9d520NsBAA6oOGvn0/edit?usp=sharing).
-
 ### Here are some interesting quotes and insights from the interview:
 
-**:one: How the user chooses to plan their parking ahead of time (3:04)**
-> If I know where I'm going, I like to plan ahead so I will try. If I'm going to a difficult place, an area that I know is going to be very difficult to find parking, like Downtown LA, I will do research in advance like I will look for parking structures and save the address of the parking structure in my phone. But if it's like the grocery store, I know where the parking is. I'll find a spot eventually.
+**:one: The user's painpoints with second-hand shopping (5:45)**
+> I'm frustrated at Goodwill because it's hard to find stuff, but you go in with the mindset knowing that it's going to be a hunt. Facebook Marketplace, sometimes it's frustrating just because there isn't always something that I need on there and a lot of the good stuff is like taken or people don't get back to me ASAP when I message them to see if item is available.
 
-**:two: The user's preferences on paid parking (5:03)**
-> I prefer to abstain from going to places that charge exorbitant amounts of money or don't give you the option of at least like an hour free parking. So I'm like, "That's lame." You're capitalizing on people's needs.
+**:two: The user's decision making process when purchasing second-hand items (6:45)**
+> I look at the pictures and make sure there's no imperfections or anything. Sometimes, I go in person to see the item because I want to make sure it works. Maybe like reviews online of the sellers, if the sellers trustworthy too, like general vibe check, like the smell of clothes if there's stains on it. Yeah, but it's more so like if it works and if it looks good, it doesn't look broken.
 
-**:three: What the user dislikes about the way they look for parking currently (6:13)**
-> You never know what you're going to get. Like, you don't know if it's going to be available, if there are places (parking spots) that are gonna be open.
-
-**:four: The user's ranking of the importance of parking (on a scale of 1-10) as a component of an entire trip (17:40)**
->Okay, so, back to one of your other questions about what if it's important, or how important it is or like, how much will I suffer. Even if the parking is difficult, like, if I'm going somewhere for the first time, fine, I'll suffer through but then the next time it is now a factor I know that it's going to be difficult. So that is becomes a bigger portion of my number — I may turn into like a six or seven. So I think it depends on destination or whether and I've been there, but also I could be willing to give it another shot.
+**:three: The user's decisino making process when purchasing on Facebook Marketplace (18:05)**
+> I would have to message them. I have to go see it in person or, through Facetime.
 
 
+**:four: Feature that would ease the user's experience when listing an item (21:04)**
+> Maybe if they could find the link for me of where I got it based off of the image or based off of what I put in. So if I put in boots from Madewell, they could give me suggested links of products and I could click that link and then put it in there. Okay.
 
 ## Reflection
 
