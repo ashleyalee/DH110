@@ -50,10 +50,10 @@ Please find the [Interview Script](https://docs.google.com/document/d/1cwa13f5nz
 **:one: The user's painpoints with second-hand shopping (5:45)**
 > *I'm frustrated at Goodwill because it's hard to find stuff, but you go in with the mindset knowing that it's going to be a hunt. Facebook Marketplace, sometimes it's frustrating just because there isn't always something that I need on there and a lot of the good stuff is like taken or people don't get back to me ASAP when I message them to see if item is available.*
 
-**:two: The user's decision making process when purchasing second-hand items (6:45)**
+**:two: The user's decision-making process when purchasing second-hand items (6:45)**
 > *I look at the pictures and make sure there's no imperfections or anything. Sometimes, I go in person to see the item because I want to make sure it works. Maybe like reviews online of the sellers, if the sellers trustworthy too, like general vibe check, like the smell of clothes if there's stains on it. Yeah, but it's more so like if it works and if it looks good, it doesn't look broken.*
 
-**:three: The user's decisino making process when purchasing on Facebook Marketplace (18:05)**
+**:three: The user's decision-making process when purchasing on Facebook Marketplace (18:05)**
 > *I would have to message them. I have to go see it in person or, through Facetime.*
 
 **:four: Feature that would ease the user's experience when listing an item (21:04)**
@@ -61,4 +61,6 @@ Please find the [Interview Script](https://docs.google.com/document/d/1cwa13f5nz
 
 ## Reflection
 
-I enjoyed the contextual inquiry process because it gave me the freedom to make observations and learn from my target user without being as intrusive and hands-on as in the initial Usability Testing assignment. The opportunity to ask questions in this interview allowed me to learn a lot more about my target user and their habits in relation to the solution I am trying to implement. My interviewee was very verbal, which allowed me to better understand her ideas and thought process when using the product. As I went through all the discussion questions and activities, I was able to gain a new perspective into the user experience and erase any assumptions I may have had about my targt user or expectations that I had coming into this interview. I was able to learn a lot more than expected, and I gained a wealth of valuable information that will help me to better understsand and improve my solution. 
+I enjoyed the contextual inquiry process because it gave me the freedom to make observations and learn from my target user without being as intrusive and hands-on as in the initial Usability Testing assignment. The opportunity to ask questions in this interview allowed me to learn a lot more about my target user and their habits in relation to the solution I am trying to implement. My interviewee was very verbal, which allowed me to better understand her ideas and thought process when using the product. As I went through all the discussion questions and activities, I was able to gain a new perspective into the user experience and erase any assumptions I may have had about my targt user or expectations that I had coming into this interview. I was able to learn a lot more than expected, and I gained a wealth of valuable information that will help me to better understand and improve my solution. For example, I did not consider that my user would struggle with the legitimacy of sellers on virtual second-hand shops. This gave me more perspective and opened my eyes to other aspects of the user experience.
+
+Moving forward, I want to be sure to continue ensuring that my participant is actively engaging in the activities by providing commentary, since I was able to gain a lot of insight from this specific interview. I also want to make sure to adhere to the script, since it was easy to deviate from it and ask followup questions when needed. I can also try to improve my script so that some of the questions aren’t redundant.
