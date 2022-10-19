@@ -48,18 +48,17 @@ Please find the [Interview Script](https://docs.google.com/document/d/1cwa13f5nz
 ### Here are some interesting quotes and insights from the interview:
 
 **:one: The user's painpoints with second-hand shopping (5:45)**
-> I'm frustrated at Goodwill because it's hard to find stuff, but you go in with the mindset knowing that it's going to be a hunt. Facebook Marketplace, sometimes it's frustrating just because there isn't always something that I need on there and a lot of the good stuff is like taken or people don't get back to me ASAP when I message them to see if item is available.
+> *I'm frustrated at Goodwill because it's hard to find stuff, but you go in with the mindset knowing that it's going to be a hunt. Facebook Marketplace, sometimes it's frustrating just because there isn't always something that I need on there and a lot of the good stuff is like taken or people don't get back to me ASAP when I message them to see if item is available.*
 
 **:two: The user's decision making process when purchasing second-hand items (6:45)**
-> I look at the pictures and make sure there's no imperfections or anything. Sometimes, I go in person to see the item because I want to make sure it works. Maybe like reviews online of the sellers, if the sellers trustworthy too, like general vibe check, like the smell of clothes if there's stains on it. Yeah, but it's more so like if it works and if it looks good, it doesn't look broken.
+> *I look at the pictures and make sure there's no imperfections or anything. Sometimes, I go in person to see the item because I want to make sure it works. Maybe like reviews online of the sellers, if the sellers trustworthy too, like general vibe check, like the smell of clothes if there's stains on it. Yeah, but it's more so like if it works and if it looks good, it doesn't look broken.*
 
 **:three: The user's decisino making process when purchasing on Facebook Marketplace (18:05)**
-> I would have to message them. I have to go see it in person or, through Facetime.
-
+> *I would have to message them. I have to go see it in person or, through Facetime.*
 
 **:four: Feature that would ease the user's experience when listing an item (21:04)**
-> Maybe if they could find the link for me of where I got it based off of the image or based off of what I put in. So if I put in boots from Madewell, they could give me suggested links of products and I could click that link and then put it in there. Okay.
+> *Maybe if they could find the link for me of where I got it based off of the image or based off of what I put in. So if I put in boots from MadeWell, they could give me suggested links of products and I could click that link and then put it in there.*
 
 ## Reflection
 
-I enjoyed the contextual inquiry process because of the freedom it gave me to make observations and learn from other users with neither me nor them being inhibited by any kind of preconceptions, like the user/participant may have been in the more formal Usability Test. I found the additional questions, not only about the product, but about the user’s background and personal conceptions of the space/community I am exploring to be particularly interesting. Several of the points made by the participant aligned with ideas I had already had regarding new features for the product, so it was great to see this unbiased validation, since this participant was not at all informed about my ideas. I appreciated the participant’s openness and addition of many details into their descriptions and statements — this interview allowed me to acquire a pretty clear idea of one kind of user persona. However, I am not sure if I did every component of this user interview correctly as I did pose some guiding questions/statements to the participant without following as strict of guidelines as outlined in the example script. I think what would be helpful to me would be to be a participant in a study myself and see how other more experienced researchers conduct such interviews.
+I enjoyed the contextual inquiry process because it gave me the freedom to make observations and learn from my target user without being as intrusive and hands-on as in the initial Usability Testing assignment. The opportunity to ask questions in this interview allowed me to learn a lot more about my target user and their habits in relation to the solution I am trying to implement. My interviewee was very verbal, which allowed me to better understand her ideas and thought process when using the product. As I went through all the discussion questions and activities, I was able to gain a new perspective into the user experience and erase any assumptions I may have had about my targt user or expectations that I had coming into this interview. 
