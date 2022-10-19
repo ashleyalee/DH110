@@ -31,11 +31,17 @@
 I conducted **participatory observation research** with a mutual friend who fits my target user persona. I held an interview where I learned more about my target user through discussion questions and interactive activities. Please refer to the materials used in the next section for more details.
 
 ### Step 4: Plan the details
-I decided to conduct this participatory observation research in person at UCLA with a mutual friend who fit my target user persona. I recorded the session using the Zoom recording feature and transcribed the recording after the session. 
+I decided to conduct this participatory observation research in person in a study room at UCLA with a mutual friend who fit my target user persona. I recorded the session using the Zoom recording feature and transcribed the recording after the session. 
 
+During the session, I observed two activities: 
+* I asked the user to shop for a pair of rain boots on Facebook Marketplace, which is an online second-hand e-commerce platform.
+* I asked the user to list a pair of rain boots on Marketplace for sale. 
 
+Please find the [Interview Script](https://docs.google.com/document/d/1cwa13f5nzwz6osnAuJ58rU0d12-mAQaSUci_OWD5ypg/edit?usp=sharing)
 
 ### Step 5: Conduct the Research
+* [Interview Recording]()
+* [Interview Transcript]()
 
 ### Step 6: Documentation & Reflection
 
