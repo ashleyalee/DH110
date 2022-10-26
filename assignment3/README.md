@@ -1,4 +1,4 @@
-# DH 110 Assignment 4 - Ashley Lee
+# DH 110 Assignment 3 - Ashley Lee
 
 ## Contextual Inquiry
 
