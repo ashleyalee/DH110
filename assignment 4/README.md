@@ -34,26 +34,24 @@ The purpose of UX Storytelling is to place your shoes in the user's and better u
 > Sadie currently sells and buys used items online because it is much convenient for her to do so there than in person. As Sadie is moving in to her new apartment in Seattle for the summer, she is looking to furnish her place to make it feel like home. However, knowing that she is only living here for a summer, she looks for items that are used so they can ideally save money and not have to invest in something she can not bring home with her. In the same way, she decides that she can sell these items after moving home and needs a platform to do so. Sadie decides to browse for and sell used products in a central place online (in the application). 
 
 #### How Sadie is using this product
-> Sadie browses through the application several times a day to see what is available at the moment. She searches for furniture, such as a coffee table. While browsing, she wants to compare prices with new pieces to ensure that she is getting the best deal, even if she is only temporarily owning this coffee table. She thinks that if she is to buy this product brand new for a comparable price, she may be able to make more money off of it when trying to sell it later. She uses the price comparison feature that allows her to do this easily, without her needing to google or search for it herself. With the click of a button, she can see other listings of this product from retailers.
+> Sadie browses through the application several times a day to see what is available at the moment. She searches for furniture, such as a coffee table. While browsing, she wants to compare prices with new pieces to ensure that she is getting the best deal, even if she is only temporarily owning this coffee table. She thinks that if she is to buy this product brand new for a comparable price, she may be able to make more money off of it when trying to sell it later. She uses the price comparison feature that allows her to do this easily, without her needing to google or search for it herself. With the click of a button, she can see other listings of this product from retailers. She can use this to decide if the product is worth purchasing used or new. 
 
 #### Sadie's Journey Map
-<img src="/images/Persona%201%20Journey%20Map.png">
+![Sadie Journey Map](Sadie-journey.png)
 
 
 ### 2. Linda's Scenario & Journey Map
 #### Why Linda is using this product
-> Nicole just moved to Irvine from New York after getting married. She really misses her four best friends from back in New York. They used to have a book club where every month, they read one book and meet at her apartment to talk about it over dinner. Nicole and her friends still want to have an “online book club,” where they can discuss books and recommend new books to each other. She also wants to be able to track and organize all of the books she’s read by herself and with her friends.
+> Linda is cleaning out her children's closet and ends up with a large pile of clothes that her children have outgrown and can no longer wear. She doesn't really have anyone to give them away to and realizes that if she's going to keep purchasing clothes since her children outgrow them so fast, she might as well try to sell them and see what she can get to put towards new purchases. 
 
 #### How Linda is using this product
-> After dinner, Nicole opens the app to see that her friend Lisa posted a comment about a book she and her friends are reading together. She responds to the comment by clicking the “reply” button under Lisa’s comment. Nicole also found a new book she wants to read with them, so she types in the title of the book in the search bar, then clicks “share,” and shares them to her friends.
+> Linda compiles all the clothing items and lists them on an online application. As she is uploading the images of her products and their specifications, she realizes that it would be helpful if people could be linked to the original product retailer. Not only does this provide better photos for potential buyers, linking the product page can also provide more information that Sadie may not know about. This feature is convenient and pulls up the site without her searching for it. 
 
 #### Linda's Journey Map
-<img src="/images/Persona%202%20Journey%20Map.png">
+![Linda Journey Map](Linda-journey.png)
 
 
 
 ## Reflection
-* Coming up with personas was more difficult than I expected. Thinking of unbiased, diverse personas while taking everything from the heuristic evaluations and user interviews into account made me really feel like I knew these users personally. 
-* Next time, I would also like to take research about more demographic information, such as the main population group that
-reads books or uses reading apps, to make decisions about personas.
+* After working on this project, I realized that coming up with personas was much more difficult than I expected. It was difficult to try to put my shoes in another person and fully understand their behaviors and tendencies without fully being them. It was also difficult to put aside any biases I had in order to better understand and develop my user. In the future, I can spend time doing more research, such as listening to anecdotes from these types of people I am writing about in order to better portray them and their stories.
 
