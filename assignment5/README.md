@@ -59,6 +59,7 @@ From conducting this low-fidelity prototype test, I learned that there are sever
 - The user had a difficult time when searching for an item to purchase, as there was a search box AND category selection after pressing the 'category' button. I should only let one option appear at a time to make it clear to the user what their options are.
 - On the product description page, the user was a bit overwhelmed by all the information there was. Perhaps the information can be dispersed so it is not as condensed.
 - When trying to 'sell' an item, the feature that allows for the user to identify the retailer page that matches their item was a bit difficult to use. The user had to spend some time filtering through all the options since there were a lot available and the one they were looking for was not directly at the top of the page. I could try implementing filter options in the future to narrow the selections down.
+- However, overall, the user was able to complete both tasks. There were just some roadblocks that caused them some frustration or led them to complete it at a slower rate than expected.
 
 ### Reflection
 
