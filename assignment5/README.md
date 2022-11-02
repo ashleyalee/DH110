@@ -61,6 +61,15 @@ From conducting this low-fidelity prototype test, I learned that there are sever
 - When trying to 'sell' an item, the feature that allows for the user to identify the retailer page that matches their item was a bit difficult to use. The user had to spend some time filtering through all the options since there were a lot available and the one they were looking for was not directly at the top of the page. I could try implementing filter options in the future to narrow the selections down.
 - However, overall, the user was able to complete both tasks. There were just some roadblocks that caused them some frustration or led them to complete it at a slower rate than expected.
 
+*What went smoothly*
+- The user was able to complete the tasks and did not need much help on my end. 
+- The user understood the designs that I had drawn out and it was easy for them to identify the steps needed to complete my task. 
+
+*What was unexpected*
+- The user did not talk as much, so I had to prompt them. 
+- It was easy to want to tell the user what to do, so I had to remember to refrain from doing so.
+- it was difficult for the user to understand how to complete a prototype testing on paper, since the product was not interactive for them to work with, however, they got used to this over time. 
+
 ### Reflection
 
 This was my first time creating a low-fidelity prototype and I really enjoyed the design process. While it was difficult trying to draft up an entire website, it was helpful to use the existing Facebook Marketplace page to have an idea of what the backbone of the page should be looking like. There were a lot more details than I had to consider, which made it difficult. For example, I initially left out an exit button, because it was not at the top of my head, since I was so focused on how the user should achieve the task, amd not actually leave it if needed. 
