@@ -24,18 +24,33 @@ I created two personas and scenarios centered around features that would solve e
 Here is more information on the [personas and scenarios](https://github.com/ashleyalee/DH110/tree/main/assignment%204).
 
 ### Tasks/Features
-1. 
-2. 
+1. List a product and reference its existing product page from a third party vendor's site (so buyers can see full product description and original price).
+2. Seller verification system that allows buyers to message sellers and also write/read reviews about buyers only after purchasing from them. 
 
-## Wireframes and Wireflows
-![Lofi Prototype 1](Lofi_Prototype_1.jpg)
-![Lofi Prototype 2](Lofi_Prototype_2.jpg)
-![Lofi Prototype 3](Lofi_Prototype_3.jpg)
+## Wireframes
+![Lofi Prototype 1](PT-02.jpg)
+![Lofi Prototype 2](PT-03.jpg)
+
+## Wireflows
+![Lofi Prototype Test 1](PT-04.jpg)
+![Lofi Prototype Test 2](PT-05.jpg)
+![Lofi Prototype Test 3](PT-06.jpg)
+![Lofi Prototype Test 3](PT-07.jpg)
+![Lofi Prototype Test 1](PT-08.jpg)
+![Lofi Prototype Test 2](PT-09.jpg)
 
 ## Low-Fidelity Prototype Testing
-![Lofi Prototype Test 1](Lofi_Prototype_Test_1.jpg)
-![Lofi Prototype Test 2](Lofi_Prototype_Test_2.jpg)
-![Lofi Prototype Test 3](Lofi_Prototype_Test_3.jpg)
+(All researcher notes are on post-it notes)
+
+![Lofi Prototype Test 3](PT-10.jpg)
+![Lofi Prototype Test 3](PT-11.jpg)
+
+### Prototype Testing Photos
+
+
+| Photo 1  | Photo 2 | Photo 3 |
+| ------------- | ------------- | ------------- |
+| ![Lofi Prototype Photo1](IMG_8721.jpg) | ![Lofi Prototype Photo1](IMG_8724.jpg)  | ![Lofi Prototype Photo1](IMG_8735.jpg)  |
 
 ### Reflection
 I enjoyed drawing the wireframes and designing how I'd like it to look like. When I want to add some buttoms or features, I searched online to see how they look like that way I can replicate it. Putting my ideas onto paper is harder than I thought but it is a fun process nonetheless. When I draw the wireflows, I can see what I need to add to the wireframes. From testing the prototype, I found even more missed elements in the wireframes, such as a **Next** button rather than just a **Skip** button.  
