@@ -33,7 +33,7 @@ I based this interface design off of my low fidelity prototype as a reference. H
 ![design layout](1.png)
 
 ### Decision Process and Design Details
-I decided to design the main "Sell/Buy" page. I chose this frame because it captures the main page of functions that the user can do on the app, which are to either buy or sell products. The overall layout of this page includes a search bar for what item they are looking to buy/sell, and then two buttons that allow them to choose whether they are trying to buy or sell that product to complete their search query. Below this section are some products that are generated to their liking for them to explore. The overall layout of this page includes a menu button, chat button, title of the application, sell/buy buttons, search bar, and product images. For the grid layout, I utilized 5 rows with 20px gutter and 20px margin, and 2 columns with 20px gutter and 20px margin. The rows were used to align the different sections of the page, including the search bar component and the 'explore' section. The columns were used to align the product photos in the 'explore' section, since I wanted to have two columns of products. 
+I decided to design the main "Sell/Buy" page. I chose this frame because it captures the main page of functions that the user can do on the app, which are to either buy or sell products. The overall layout of this page includes a search bar for what item they are looking to buy/sell, and then two buttons that allow them to choose whether they are trying to buy or sell that product to complete their search query. Below this section are some products that are generated to their liking for them to explore. The overall layout of this page includes a menu button, chat button, title of the application, sell/buy buttons, search bar, and product images. For the grid layout, I utilized 5 rows with 20px gutter and 20px margin, and 2 columns with 20px gutter and 20px margin. The rows were used to align the different sections of the page, including the search bar component and the 'explore' section. The columns were used to align the product photos in the 'explore' section, since I wanted to have two columns of products. To incorporate Gestalt's principles of design, I tried to incorporate a symmetric layout, hence the distirbution of elements in the page.
 
 ## Typography Variations
 ![typography](2.png)
@@ -51,32 +51,26 @@ I tried out the following typography variations using [Google Fonts](https://fon
 | Photo/product descriptions| Bellota Text | 12px | Regular |
 
 ## Button Variations
-![image](https://user-images.githubusercontent.com/61765607/167518995-f2d407e5-9456-49e0-b63a-b39ed5804083.png)
+![button variation](3.png)
 
 ### Decision Process and Design Details
-I tested three button variations: rectangle with slightly rounded corners, rectangle with one circular corner, and rectangle with fully rounded corners. While I thought that the one circular corner option was unique, I felt that it had too much movement in the design. I decided to go with the slightly rounded corner option, because the buttons appeared more stable and stationary. This stationary look is what I feel goes best with learning-topic-buttons. Details for this design are below:
+I tested the three following button variations: rectangle with sharp corner, circle, and rectangle with rounded corners. I decided to try out the rectangle with sharp and rounded corners since I thought those were pretty standard button design in web applications. For my third option, I decided to try out circles, since that was initially what I envisioned when illustrating my low-fidelity prototype. However, the circles did not seem to fit as nicely on the page and was in an awkward position. while they are the main focus of the home page, there seems to be too much focus on the buttons when they are designed as circles. I decided to go with the rectangular buttons with rounded corners, because they can successfully convey their purpose to the user while not distracting them from the other features on the page.
+
+I chose not to change the structure of the photo placeholders since I would like to keep them standard. 
+
+***Details for the button I chose are below:***
 
 | Width | Height | Padding | Radius |
 |---|---|---|---|
-| 322px | 104px | 8px (left, right) | 12px |
+| 88px | 33px | 16px (horiz), 12px (vert) | 12px |
 
-## Chat Icon Variations
-![image](https://user-images.githubusercontent.com/61765607/167519010-68aaaeb6-8bd9-403e-be97-97d943b9881b.png)
-
-### Decision Process and Design Details
-I accessed these chat icons from [Icons8.com](https://icons8.com/). However, if I had more time on this part of my project, I would have designed each icon by hand. These were the top four chat icons I liked from the site. I tested two round chat shapes, one rectangular chat shape, and one multi-chat icon. When testing these icons, I felt that the circle shape was too tall and looked unprofessional. I appreciated the rectangular icon, but it appeared slightly too square for the overall look. Thus, I decided to use the ovular chat shape because it has less height, but still has roundness. This is seen in the second frame in the image above. The icon image measures 36px by 27px.
-
-## Additional Detailing
-![image](https://user-images.githubusercontent.com/61765607/167519063-37887d10-57ce-4304-9e0f-d1215a2941c9.png)
-
-### Decision Process and Design Details
-As I continued to look at my design, I felt it needed a more clear grouping of elements. Based on [Gestalt Theory](https://material.io/design/layout/understanding-layout.html#composition), both implicit containment and explicit containment can help improve a design's visual grouping. I decided to create a unique shape to add movement and create explicit containment around the top section of the screen. Details for the shape design are documented under [Design Summary](#design-summary). I then utilized my original grid layout to ensure that the elements were still spaced properly. Lastly, I added a drop-shadow to the buttons and rounded the corners of the status bars (2px). The final design is shown in the rightmost frame in the image above.
 
 ## Color Variations
-![image](https://user-images.githubusercontent.com/61765607/167519474-205c471a-09c4-4b52-869c-fb41e39416c6.png)
+![image](4.png)
 
 ### Decision Process and Design Details
-I tested several different color variations. Six are shown above. To help me decide color schemes, I used [Adobe Color](https://color.adobe.com/create/color-wheel) for color combinations and [Visme](https://visme.co/blog/website-color-schemes/) for further inspiration. I tested Analagous, Complementary, Monochromatic, and Primary color combinations. Different shades and hues were used to color the individual components of the design. I researched more about color psychology, specifically for [color in branding](https://www.ignytebrands.com/the-psychology-of-color-in-branding/#3), and found that blue and purple hues are what I would like to use for my music learning app. Blue instills a sense of dependability, logic, serenity, and security. Whereas purple instills a sense of wisdom, imagination, and sophistication. I decided to test more variations of the monochromatic indigo design in the bottom left frame shown above.
+I tested three different color variations. I used [Coolors](https://coolors.co/palettes/trending) to decide what color palettes I would want to use in my design. Because this product is oriented toward sustainability and improving the Earth, I wanted to choose earthy tones that would hopefully allow the user to feel a sense of calmness. I feel that the green would help the users feel a closer connection to the earth/sustainability and would give them the mindset to want to be more environmentally conscious. I created two iterations of a light mode and one dark mode option. 
+
 
 ## Monochromatic Indigo Variations
 ![image](https://user-images.githubusercontent.com/61765607/167519493-647f1fee-d9c1-429f-8f1b-9c08af61d575.png)
