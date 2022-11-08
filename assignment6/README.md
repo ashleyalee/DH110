@@ -30,24 +30,25 @@ I based this interface design off of my low fidelity prototype as a reference. H
 ## Graphical Interface Design Variation
 
 ## Design and GUI Component Layout
-![image](https://user-images.githubusercontent.com/61765607/167518848-b0fce3e1-af29-45a6-aa9f-9ad806199394.png)
+![design layout](1.png)
 
 ### Decision Process and Design Details
-I decided to design the main "Sell/Buy" page. I chose this frame because it captures the main page of functions that the user can do on the app, which are to either buy or sell products. The overall layout of this page includes a search bar for what item they are looking to buy/sell, and then two buttons that allow them to choose whether they are trying to buy or sell that product to complete their search query. Below this section are some products that are generated to their liking for them to explore. The overall layout of this page includes a menu button, chat button, title of the application, sell/buy buttons, search bar, and product images. For the grid layout, I utilized 5 rows with 20px gutter and 20px margin, and 2 columns with 20px gutter and 20px margin. The rows were used to align the different sections of the page, including the search bar component and the 'explore' section.
+I decided to design the main "Sell/Buy" page. I chose this frame because it captures the main page of functions that the user can do on the app, which are to either buy or sell products. The overall layout of this page includes a search bar for what item they are looking to buy/sell, and then two buttons that allow them to choose whether they are trying to buy or sell that product to complete their search query. Below this section are some products that are generated to their liking for them to explore. The overall layout of this page includes a menu button, chat button, title of the application, sell/buy buttons, search bar, and product images. For the grid layout, I utilized 5 rows with 20px gutter and 20px margin, and 2 columns with 20px gutter and 20px margin. The rows were used to align the different sections of the page, including the search bar component and the 'explore' section. The columns were used to align the product photos in the 'explore' section, since I wanted to have two columns of products. 
 
 ## Typography Variations
-![image](https://user-images.githubusercontent.com/61765607/167518952-790acf18-c193-4688-a623-462cac48e2aa.png)
+![typography](2.png)
 
 ### Decision Process and Design Details
-For typography, I wanted a look that is fun yet professional. First, I tried using the Quicksand font because it has a young, fun appearance with the rounded corners and different boldness options. Second, I tested the Spectral font, which had a much more professional look. After these two tests, I felt that Quicksand appeared slightly too disorganized/unprofessional, and Spectral appeared too formal. I researched more fonts through [Google Fonts](https://fonts.google.com/), and found that Roboto Slab was a happy medium of these two fonts. Using Roboto Slab for every text item on the application was a bit much, so I mixed in Roboto for subtitles, and used Playfair Display for the main app title. My final topography is shown at the very right in the image above. Details for these fonts are below.
+I tried out the following typography variations using [Google Fonts](https://fonts.google.com/): Averia Serif Libre, Bellota Text, and Roboto Slab. I wanted to find a balance between something that was playful and professional. I decided to try out Averia Serif Libre as something that was more professional. However, it ended up looking a bit too serious/ancient so I tried to find something that looked more 'light-hearted'. I then tried out Bellota Text, which seemed to be more casual and less stern. However, I felt that I wanted something that had a bolder appearance, especially when presenting the application's name. I then tried out Roboto Slab, which had a balance between these two fonts. Since I wanted that bolder presentation of the logo, I used Roboto Slab. I also wanted the 'Buy' and 'Sell' buttons to stand out, so I used Roboto Slab for those. For the remaining text on the page, I settled on Bellota Text, since there were not too bold but were still clear enough to clearly communicate to the user. My final topography is shown at the very right in the image above. 
+
+***Details for these fonts are below:***
 
 | Text | Typeface | Font Size | Weight |
 |---|---|---|---|
-| Main Title (H1) | Playfair Display | 54px | Bold |
-| Lesson Title (H2) | Roboto Slab | 34px | Regular |
-| Lesson Subtitle (H3) | Roboto | 20px | Light Italic |
-| Button Label (H4) | Roboto Slab | 24px | Regular |
-| Status Percent (H6) | Roboto | 11px | Light |
+| Main Title | Roboto Slab | 54px | Regular |
+| "I am looking to..." | Bellota Text | 16px | Italic |
+| Button Labels | Roboto Slab | 14px | Medium |
+| Photo/product descriptions| Bellota Text | 12px | Regular |
 
 ## Button Variations
 ![image](https://user-images.githubusercontent.com/61765607/167518995-f2d407e5-9456-49e0-b63a-b39ed5804083.png)
