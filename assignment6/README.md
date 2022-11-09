@@ -15,17 +15,14 @@ The purpose of UX Interface Design is to convert low-fidelity wireframes into di
 I based this interface design off of my low fidelity prototype as a reference. However, there are some changes in the design since I wanted to test out a slightly different idea to involve the ecological footprint factor. I started off with an iPhone 8/SE frame. I drafted out the layout from my low-fidelity prototype and included more details. This frame captures the main features of the application, allowing users to select if they are trying to purchase or sell an item and explore other items catered to their interest in an 'explore' page. During my process, I tested different typography, shape, and color variations for the app's main "Sell/Buy" page. After completion of the design, I ran two impression tests to further assist my process. I also ran an accessibility test to check for proper color contrast.
 
 
-- [Figma Full Design Page](https://www.figma.com/file/U6vsPQLgZCa5sggQXV0fFn/Design-System%3A-TuneMate?node-id=0%3A1)
+- [Figma Full Design Page](https://www.figma.com/file/4qjFBNtGzTSTBwis2NiGIn/Untitled?node-id=1%3A2)
   - includes test screens, design system info, and digitized wireflow
 
 
 #### Initial Wireframe of the "Lessons" Page that I will design:
-<p>
-  <img src="https://user-images.githubusercontent.com/61765607/167749522-57dd62ac-2007-4a16-8736-d5d45453018e.png" height="350px"/>
-</p>
+![initial](17.jpg)
 
-
-
+This slightly differs from what I ended up designing because I thought it would make more sense to combine some of the frames I had in my low-fidelity prototype. It would make more sense to have the "Just for you" page merged with this page, so that the user can see it. 
 
 ## Graphical Interface Design Variation
 
@@ -69,58 +66,63 @@ I chose not to change the structure of the photo placeholders since I would like
 ![color variations](4.png)
 
 ### Decision Process and Design Details
-I tested three different color variations. I used [Coolors](https://coolors.co/palettes/trending) for color pallete inspiration to use in my design and then combined colors to make my own palette. Because this product is oriented toward sustainability and improving the Earth, I wanted to choose earthy tones that would hopefully allow the user to feel a sense of calmness. I feel that the green would help the users feel a closer connection to the earth/sustainability and would give them the mindset to want to be more environmentally conscious. I created two iterations of a light mode and one dark mode option. 
+I tested three different color variations. I used [Coolors](https://coolors.co/palettes/trending) for color pallete inspiration to use in my design and then combined colors to make my own palette. Because this product is oriented toward sustainability and improving the Earth, I wanted to choose earthy tones that would hopefully allow the user to feel a sense of calmness. Typically, green colors remind people of nature. I feel that the green would help the users feel a closer connection to the earth/sustainability and would give them the mindset to want to be more environmentally conscious. I created two iterations of a light mode and one dark mode option. 
 
 ## Layout Test
 ![layout test](5.png)
 
 To run the layout test, I applied the 10px grid to my frame. This allowed me to realign all the elements with the grid to make sure that everything was properly aligned and sized. All the photos are 9x15 grid, buttons span 3 grids tall, and search bar 4 grids tall. 
 
-| Screen 1 | Screen 2 | Screen 3 |
-|---|---|---|
-| "The title looks a little too dark" | "It's too purple for me" | "The icons at the bottom are hard to see" |
-| "I can't see the button labels very well" | "The menu icon is hard to see" | "I like this bluer color more" |
-| "I don't like how the buttons are darker than the background" | "I like the buttons' contrast with the background" | "The buttons really stand out here" |
-
-Overall, participants preferred Screen 3, with the minor issue that the bottom buttons were difficult to see. The title text has great contrast with the background design, making it stand out. The button labels stand out clearly against the light button color. And the menu and chat icons are a brighter color so they do not get lost in the dark background. I made some small changes to lighten the bottom bar, and my final color design is shown below (in light and dark mode).
-
-![image](https://user-images.githubusercontent.com/61765607/167723109-c1c0b2ac-2cd6-4c94-9dcd-669777d73238.png)
-
 ## Impression Test
-According to Yale University's [usability site](https://usability.yale.edu/usability-testing/impression-testing), two popular ways for impression testing are picking adjectives, and the five-second test. I decided to conduct both these tests with separate samples of participants. I made the Picking-Adjectives test through Google Forms, and sent the test to 50 undergraduate students at UCLA (sent via groupme). I made the Five-Second Test through Usability Hub, and sent this test to 20 friends and family living in Orange County (sent via iMessage). I felt that my close friends/family should take the Five-Second Test rather than the Adjectives test to reduce bias. The students participating in the Adjectives test were past classmates who I have never met in person. 13 responses were submitted for the Five-Second Test, and 36 responses were submitted for the Picking-Adjectives Test. Results are below:
+For my impression test, I ran the 5-second test. I showed a target user my design for 5 seconds and then asked for their first impressions on it. I then let me user look at the product in Figma without a time limit to see if they had any other opinions and suggestions for improvement on it. 
 
 ### Five-Second Test Results
-- [Test Link](https://app.usabilityhub.com/do/809e883c8d25/1156)
-- [Result Link](https://app.usabilityhub.com/tests/809e883c8d25/results/428fc872da2f)
+I have included the quotations/transcript from the impression test with my target user. My user was not comfortable sharing the recording so I transcribed it instead. 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61765607/167695143-f59d0963-2f37-4798-9689-66f6935f8ad4.png" height="350px"/>
-  <img src="https://user-images.githubusercontent.com/61765607/167714940-505b63db-ac8e-4bfa-92f2-8a7c86e178b2.png" height="350px"/>
-</p>
+**[Interview Transcript](https://docs.google.com/document/d/1fdrBGBDazUlOTNI2zCBX3y8Qy0AD58np22nA3_rH_7I/edit?usp=sharing)**
 
-### Observations
-Based on results for the "What is this app used for" question, the top impressions users noted were music, learning, tuning, and reading. It was interesting to see that many users believed the app's purpose was for tuning instruments. I think that this was a common answer because the app name is "TuneMate". Perhaps I should consider exploring other name options for the application, because the word "Tune" might be misleading for the app's purpose. However, "music" and "learning" were the most popular answers, which tells me that the main purpose of the app was conveyed to most users. Based on results for the word/sentence recall question, most users recalled rhythm, reading, fundamentals, and basic. These results demonstrated that the overall lesson names really stood out to users.
+**Key Quotes:**
 
-### Picking-Adjectives Test Results
-- [Test Link](https://forms.gle/N1bJCiBRc2SVrBck7)
-- [Results CSV](https://docs.google.com/spreadsheets/d/1g1CKhkWu_7A0O1mrV_O0AlGM9rhEp_qRgdgSgpGE7Eg/edit?usp=sharing)
+>I think the photos being on this page threw me off a little bit because it seems a little out of context since it’s hard to tell what they are...Maybe if you could add a header to show that this section consists of products that are catered to them, that would help.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61765607/167696281-c2dd2b66-a278-4597-b0c5-14abeb366857.png" height="260px", width="800px"/>
-  <img src="https://user-images.githubusercontent.com/61765607/167696345-e559b08a-ffd1-46db-810d-72e591462857.png" height="260px", width="800px"/>
-  <img src="https://user-images.githubusercontent.com/61765607/167696392-e4bc023a-18fa-4ae3-b13a-31472c1b48d6.png" height="260px", width="800px"/>
-</p>
+>I think the different colors in the sell and buy buttons might be a little inconsistent... you could try making them both the same color to see how that would work out?
 
-### Observations
-Based on these results, it appeared that most users felt the app looked calm, simple, fresh, and useful. Many users also felt that the app apeared familiar and professional. It was encouraging to see these results, because I hoped to make the design as simple as possible but still appear useful and professional. A few users also said the app appeared to look cheap. I reached out to some design friends and they noted that the bottom-bar icons devalue the overall look. As I continue my design process, I will investigate other icon options and spend more time choosing icons that look sophisticated and fit the design well.
+>I like that the colors on the page are related to sustainability and the Earth.
+
+When I asked for their opinion on the design, these are some of the key takeaways from the interview:
+### Color Palette 
+- Earth color tones reminded her of sustainability
+- It was easy to read the words on the buttons 
+
+### Typography
+- Text was easy to read and the text on the buttons stood out 
+- The logo stood out since it was large and a different font
+
+### Layout
+- Possibly add a header to the photos so that the user could tell what that section is for
+
+## Feedback Integration
+After the Impression Test, I incorporated some of the feedback to improve the interface and usabiity of my product. I added a label above the photos so it would be more clear what the photos in that section are for. However, I chose to leave the colors of the buttons the same since I wanted there to be a difference between the buttons.
+
+![feedback integration](6.png)
 
 ## Accessibility Test
-To run a color-contrast check of my final design, I utilized the Spark plugin in Figma. The test results are shown below:
+To run a color-contrast check of my final design, I utilized the Color Contrast plugin in Figma. The test results are shown below:
 
-![image](https://user-images.githubusercontent.com/61765607/167722564-e307eb48-e41f-4eea-87fa-d8f0058c7c80.png)
+| Header + Background | Text + Background  | Subheader + Background  |
+| ------------- | ------------- | ------------- |
+| ![fb1](7.png) | ![fb2](8.png)  | ![fb3](9.png)  |
 
+| Subtitle + Background | Button + Background  | Button text + Background  |
+| ------------- | ------------- | ------------- |
+| ![fb1](10.png) | ![fb2](11.png)  | ![fb3](12.png)  |
+
+| Button text + Background | Button + Background  | Chat button + Background  |
+| ------------- | ------------- | ------------- |
+| ![fb1](13.png) | ![fb2](14.png)  | ![fb3](15.png)  |
 
 # Design Summary
 
-![image](https://user-images.githubusercontent.com/61765607/167738544-8148ddf1-c10d-4f2c-852c-2759c3aa5401.png)
+Below is my final design and the specs for each aspect in the design.
+![image](16.jpg)
 
