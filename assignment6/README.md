@@ -66,17 +66,15 @@ I chose not to change the structure of the photo placeholders since I would like
 
 
 ## Color Variations
-![image](4.png)
+![color variations](4.png)
 
 ### Decision Process and Design Details
-I tested three different color variations. I used [Coolors](https://coolors.co/palettes/trending) to decide what color palettes I would want to use in my design. Because this product is oriented toward sustainability and improving the Earth, I wanted to choose earthy tones that would hopefully allow the user to feel a sense of calmness. I feel that the green would help the users feel a closer connection to the earth/sustainability and would give them the mindset to want to be more environmentally conscious. I created two iterations of a light mode and one dark mode option. 
+I tested three different color variations. I used [Coolors](https://coolors.co/palettes/trending) for color pallete inspiration to use in my design and then combined colors to make my own palette. Because this product is oriented toward sustainability and improving the Earth, I wanted to choose earthy tones that would hopefully allow the user to feel a sense of calmness. I feel that the green would help the users feel a closer connection to the earth/sustainability and would give them the mindset to want to be more environmentally conscious. I created two iterations of a light mode and one dark mode option. 
 
+## Layout Test
+![layout test](5.png)
 
-## Monochromatic Indigo Variations
-![image](https://user-images.githubusercontent.com/61765607/167519493-647f1fee-d9c1-429f-8f1b-9c08af61d575.png)
-
-### Decision Process and Design Details
-To further test the color variations, I used a [Preference Test](https://usabilityhub.com/guides/preference-testing) to see which design was most appealing to users. The feedback I got from this test is as follows:
+To run the layout test, I applied the 10px grid to my frame. This allowed me to realign all the elements with the grid to make sure that everything was properly aligned and sized. All the photos are 9x15 grid, buttons span 3 grids tall, and search bar 4 grids tall. 
 
 | Screen 1 | Screen 2 | Screen 3 |
 |---|---|---|
