@@ -23,8 +23,8 @@ I based my high-fidelity interactive prototype off of my low-fidelity prototype 
 Identify the full wireflow [here](https://www.figma.com/proto/VpqdgQCq4hXkTaxqyZjZRL/Assignment-7---High-Fidelity-Prototype?node-id=37%3A624&scaling=scale-down&page-id=0%3A1&starting-point-node-id=37%3A624).
 ![wireflow](2.png)
 
-## Cognitive Walkthrough Evidence
-The main feedback I received was with the carbon footprint leaves. They were initially unsure of what the leaves referred to since I did not include an explanation for them. I was advised to have a question button next to them or in a tutorial when opening up the application.
+## Usability Testing
+The main feedback I received was with the carbon footprint leaves. They were initially unsure of what the leaves referred to since I did not include an explanation for them. I was advised to have a question button next to them or in a tutorial when opening up the application. My user did say that the leaves were easy to notice but was just not sure what they meant- maybe it would be more effective to do a 5 star/leaf rating system instead of values.
 
 My user also said that the background color of the application was distracting and dull, which was new to me, since I did not previously have an issue with this during the interface design round. I will look into possibly modifying this into something that is more appealing, such as white. 
 
