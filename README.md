@@ -1,8 +1,13 @@
-# DH110
+# Title
 
 ## Responsible Consumption and Production Project
+
 ### Ashley Lee, DH110
 
-Project Description
+### Research
 
-I would like to make a project that would allow users to learn about their ecological footprint and provide personalized ways they can reduce it.
+### Design
+
+### Evaluation
+
+### Presentation
