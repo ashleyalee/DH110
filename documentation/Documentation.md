@@ -1,8 +1,8 @@
-# Title
+# Responsible Consumption and Production Project
 
-## Responsible Consumption and Production Project
+## Ashley Lee, DH110 UI + UX Design, Fall 2022
 
-### Ashley Lee, DH110
+### Design Statement
 
 ### Research
 
