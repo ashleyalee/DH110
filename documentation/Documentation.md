@@ -2,6 +2,9 @@
 
 ## Ashley Lee, DH110 UI + UX Design, Fall 2022
 
+### Introduction
+
+
 ### Design Statement
 
 ### Research
